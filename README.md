@@ -1,6 +1,5 @@
 # DISCIPLINA-POO-2025
-## Exercícios de Programação Orientada a Objetos (POO) - Capítulos 3, 4, 5, 6 
-e 8
+## Exercícios de Programação Orientada a Objetos (POO) - Capítulos 3, 4, 5, 6 e 8
 # EQUIPE
 ## João Victor - Jotinha085
 ## Marcilio Nunes - Neguin05
